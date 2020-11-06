@@ -1,2 +1,2 @@
-# c-21
-my library
+# collisionAlgorithm
+Algorithm to detect collision between two objects
